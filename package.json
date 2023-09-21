@@ -1,6 +1,7 @@
 {
   "name": "my-store",
   "version": "1.0.0",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "dev": "nodemon index.js",
@@ -17,8 +18,8 @@
     "nodemon": "^2.0.12",
     "prettier": "^2.3.2"
   },
-  "description": "",
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.17.1",
+    "faker": "^5.5.3"
   }
 }
